@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTextStyleA9">#a1a1a9</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivider">#cccccc</color>
+    <color name="colorF1">#FFF1F1F1</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorTextBold">#343438</color>
+    <color name="colorPrimary">#227ee1</color>
+    <color name="colorPrimaryDark">#FF054D9B</color>
+    <color name="color02">#c00202</color>
+    <color name="color59">#525559</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorYellow06">#aaa84c</color>
+    <color name="colorYellow00">#ffff00</color>
+    <color name="default_background">#f0f0f8</color>
+    <color name="colorTextStyle38">#343438</color>
+    <color name="colorTextStyle89">#898989</color>
+    <color name="colorTextStyleaa">#aaaaaa</color>
+    <color name="colorTextStyle50">#505050</color>
+    <color name="colorHintD2">#d2d2d2</color>
+    <color name="colorStroke73">#6b6b73</color>
+    <color name="colorGrayF0">#f0f0f0</color>
+    <color name="colorDisable">#FFCDCDCE</color>
+    <color name="half_transparent">#80000000</color>
+    <color name="transparent_a9">#404040</color>
+    <color name="colorTextStyle66">#666666</color>
+
+
+
+
+
+
+
+</resources>
